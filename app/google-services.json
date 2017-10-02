@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "652707258870",
+    "firebase_url": "https://fir-task-2.firebaseio.com",
+    "project_id": "fir-task-2",
+    "storage_bucket": "fir-task-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652707258870:android:467e9a5fa4759dfa",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.webservices.firebasetodoapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652707258870-aq3pj37dad9s2buj21jnpfui15i2bip8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKz7T_l-YVvEwb_MEecSPfav39RK37u8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
